@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bscs-teaching-learning.candidduck16.chatgpt.site/sitemap.xml

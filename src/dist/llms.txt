@@ -1,0 +1,188 @@
+# BSCS Teaching and Learning
+
+Public teaching guidance. EEF evidence snapshot checked 18 August 2026. Keep research evidence, BSCS policy and practitioner suggestions distinct. Restricted originals are not hosted.
+
+- [Backwards planning / Begin with the end](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/backwards-planning-begin-with-the-end/): Practical guidance
+- [Plan the explanation](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/plan-the-explanation/): Practical guidance
+- [Plan the means of participation / Double plan](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/plan-the-means-of-participation-double-plan/): Practical guidance
+- [Plan the exemplar and plan the error](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/plan-the-exemplar-and-plan-the-error/): Practical guidance
+- [Annotated seating plans and purposeful adult deployment](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/annotated-seating-plans-and-purposeful-adult-deployment/): Practical guidance
+- [Solid entry routines and threshold](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/solid-entry-routines-and-threshold/): Practical guidance
+- [Signal for attention and habits of attention](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/signal-for-attention-and-habits-of-attention/): Practical guidance
+- [Routines, transitions and precorrections](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/routines-transitions-and-precorrections/): Practical guidance
+- [Positive narration, precise praise and motivation](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/positive-narration-precise-praise-and-motivation/): Practical guidance
+- [Least-intrusive correction and behavioural leadership](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/least-intrusive-correction-and-behavioural-leadership/): Practical guidance
+- [Making participation safe](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/making-participation-safe/): Practical guidance
+- [Everyone, Together, Anyone (ETA) and active participation](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/everyone-together-anyone-eta-and-active-participation/): Practical guidance
+- [Cold calling](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/cold-calling/): Practical guidance
+- [Wait time](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/wait-time/): Practical guidance
+- [Call and response / Choral response](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/call-and-response-choral-response/): Practical guidance
+- [Turn and Talk / Think-Pair-Share / Oracy](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/turn-and-talk-think-pair-share-oracy/): Practical guidance
+- [Second Chance / No Opt Out](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/second-chance-no-opt-out/): Practical guidance
+- [Process questions and equitable follow-up](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/process-questions-and-equitable-follow-up/): Practical guidance
+- [Mini-whiteboards for participation](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/mini-whiteboards-for-participation/): Practical guidance
+- [Everybody Writes and accountable discussion](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/everybody-writes-and-accountable-discussion/): Practical guidance
+- [Checking for understanding / TAPPLE](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/checking-for-understanding-tapple/): Practical guidance
+- [Hinge questions](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/hinge-questions/): Practical guidance
+- [Mini-whiteboards for diagnosis](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/mini-whiteboards-for-diagnosis/): Practical guidance
+- [Responsive thresholds and high success](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/responsive-thresholds-and-high-success/): Practical guidance
+- [Responsive micro-decisions](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/responsive-micro-decisions/): Practical guidance
+- [Adaptive teaching: high challenge, responsive support](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/adaptive-teaching-high-challenge-responsive-support/): Practical guidance
+- [Checks for listening](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/checks-for-listening/): Practical guidance
+- [Do Now: retrieval-rich lesson start](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/do-now-retrieval-rich-lesson-start/): Practical guidance
+- [Retrieval practice: spacing, challenge and feedback](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/retrieval-practice-spacing-challenge-and-feedback/): Practical guidance
+- [Activating prior knowledge](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/activating-prior-knowledge/): Practical guidance
+- [Small steps and precise explanation](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/small-steps-and-precise-explanation/): Practical guidance
+- [Cognitive simplicity in slides and resources](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/cognitive-simplicity-in-slides-and-resources/): Practical guidance
+- [Worked examples and providing models](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/worked-examples-and-providing-models/): Practical guidance
+- [Thinking aloud](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/thinking-aloud/): Practical guidance
+- [Examples, non-examples and variation](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/examples-non-examples-and-variation/): Practical guidance
+- [Visualiser, live drawing and dual coding](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/visualiser-live-drawing-and-dual-coding/): Practical guidance
+- [Storytelling, analogies and memorable explanation](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/storytelling-analogies-and-memorable-explanation/): Practical guidance
+- [Explicit vocabulary instruction with active practice](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/explicit-vocabulary-instruction-with-active-practice/): Practical guidance
+- [Guided practice](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/guided-practice/): Practical guidance
+- [Purposeful independent practice](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/purposeful-independent-practice/): Practical guidance
+- [Scaffolding difficult tasks](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/scaffolding-difficult-tasks/): Practical guidance
+- [Fading support and backward fading](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/fading-support-and-backward-fading/): Practical guidance
+- [Circulation and actionable live feedback](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/circulation-and-actionable-live-feedback/): Practical guidance
+- [Practice for fluency, cumulative review and challenge](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/practice-for-fluency-cumulative-review-and-challenge/): Practical guidance
+- [Precise individual feedback](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/precise-individual-feedback/): Practical guidance
+- [Whole-class feedback and Show Call](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/whole-class-feedback-and-show-call/): Practical guidance
+- [Structured peer feedback](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/structured-peer-feedback/): Practical guidance
+- [Feedback as detective work](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/feedback-as-detective-work/): Practical guidance
+- [Exit tickets and retrieval quizzes](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/exit-tickets-and-retrieval-quizzes/): Practical guidance
+- [Close the feedback loop: Own and Track](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/close-the-feedback-loop-own-and-track/): Practical guidance
+- [Lesson Planning and Learning Episodes](https://bscs-teaching-learning.candidduck16.chatgpt.site/barton/lesson-planning-and-learning-episodes/): Practitioner summary
+- [Atomisation](https://bscs-teaching-learning.candidduck16.chatgpt.site/barton/atomisation/): Practitioner summary
+- [Do Now](https://bscs-teaching-learning.candidduck16.chatgpt.site/barton/do-now/): Practitioner summary
+- [Low-Stakes Quizzes for Memory and Retention](https://bscs-teaching-learning.candidduck16.chatgpt.site/barton/low-stakes-quizzes-for-memory-and-retention/): Practitioner summary
+- [Mini Whiteboards (Show Me Boards)](https://bscs-teaching-learning.candidduck16.chatgpt.site/barton/mini-whiteboards-show-me-boards/): Practitioner summary
+- [Checks for Listening](https://bscs-teaching-learning.candidduck16.chatgpt.site/barton/checks-for-listening/): Practitioner summary
+- [Cold Call](https://bscs-teaching-learning.candidduck16.chatgpt.site/barton/cold-call/): Practitioner summary
+- [Call and Response](https://bscs-teaching-learning.candidduck16.chatgpt.site/barton/call-and-response/): Practitioner summary
+- [Turn and Talk](https://bscs-teaching-learning.candidduck16.chatgpt.site/barton/turn-and-talk/): Practitioner summary
+- [Check for Understanding and Responsive Teaching](https://bscs-teaching-learning.candidduck16.chatgpt.site/barton/check-for-understanding-and-responsive-teaching/): Practitioner summary
+- [Diagnostic Questions](https://bscs-teaching-learning.candidduck16.chatgpt.site/barton/diagnostic-questions/): Practitioner summary
+- [I Do: Explicit Explanation and Modelling](https://bscs-teaching-learning.candidduck16.chatgpt.site/barton/i-do-explicit-explanation-and-modelling/): Practitioner summary
+- [We Do: Guided Practice](https://bscs-teaching-learning.candidduck16.chatgpt.site/barton/we-do-guided-practice/): Practitioner summary
+- [Maximising Participation During Independent Practice](https://bscs-teaching-learning.candidduck16.chatgpt.site/barton/maximising-participation-during-independent-practice/): Practitioner summary
+- [Whole-Class Feedback](https://bscs-teaching-learning.candidduck16.chatgpt.site/barton/whole-class-feedback/): Practitioner summary
+- [Walking-Talking Mock Exams](https://bscs-teaching-learning.candidduck16.chatgpt.site/barton/walking-talking-mock-exams/): Practitioner summary
+- [Metacognition and self-regulation](https://bscs-teaching-learning.candidduck16.chatgpt.site/evidence/metacognition-and-self-regulation/): Evidence synthesis
+- [Reading comprehension strategies](https://bscs-teaching-learning.candidduck16.chatgpt.site/evidence/reading-comprehension-strategies/): Evidence synthesis
+- [Feedback](https://bscs-teaching-learning.candidduck16.chatgpt.site/evidence/feedback/): Evidence synthesis
+- [Oral language interventions](https://bscs-teaching-learning.candidduck16.chatgpt.site/evidence/oral-language-interventions/): Evidence synthesis
+- [Peer tutoring](https://bscs-teaching-learning.candidduck16.chatgpt.site/evidence/peer-tutoring/): Evidence synthesis
+- [Collaborative learning approaches](https://bscs-teaching-learning.candidduck16.chatgpt.site/evidence/collaborative-learning-approaches/): Evidence synthesis
+- [Mastery learning](https://bscs-teaching-learning.candidduck16.chatgpt.site/evidence/mastery-learning/): Evidence synthesis
+- [Homework](https://bscs-teaching-learning.candidduck16.chatgpt.site/evidence/homework/): Evidence synthesis
+- [Individualised instruction](https://bscs-teaching-learning.candidduck16.chatgpt.site/evidence/individualised-instruction/): Evidence synthesis
+- [Behaviour interventions](https://bscs-teaching-learning.candidduck16.chatgpt.site/evidence/behaviour-interventions/): Evidence synthesis
+- [High-quality teaching for pupils with SEND: EEF Five-a-day](https://bscs-teaching-learning.candidduck16.chatgpt.site/evidence/high-quality-teaching-for-pupils-with-send-eef-five-a-day/): Evidence synthesis
+- [Checking for understanding and responsive adaptation](https://bscs-teaching-learning.candidduck16.chatgpt.site/evidence/checking-for-understanding-and-responsive-adaptation/): Evidence synthesis
+- [Cognitive science approaches: retrieval, spacing, cognitive load, worked examples and dual coding](https://bscs-teaching-learning.candidduck16.chatgpt.site/evidence/cognitive-science-approaches-retrieval-spacing-cognitive-load-worked-examples-and-dual-coding/): Evidence synthesis
+- [Explicit instruction, guided practice and scaffolding](https://bscs-teaching-learning.candidduck16.chatgpt.site/evidence/explicit-instruction-guided-practice-and-scaffolding/): Evidence synthesis
+- [Deployment of teaching assistants](https://bscs-teaching-learning.candidduck16.chatgpt.site/evidence/deployment-of-teaching-assistants/): Evidence synthesis
+- [Using digital technology to improve learning](https://bscs-teaching-learning.candidduck16.chatgpt.site/evidence/using-digital-technology-to-improve-learning/): Evidence synthesis
+- [Disciplinary literacy and explicit vocabulary instruction](https://bscs-teaching-learning.candidduck16.chatgpt.site/evidence/disciplinary-literacy-and-explicit-vocabulary-instruction/): Evidence synthesis
+- [Implementation of evidence-informed strategies](https://bscs-teaching-learning.candidduck16.chatgpt.site/evidence/implementation-of-evidence-informed-strategies/): Evidence synthesis
+- [Evidence, attribution and professional judgement](https://bscs-teaching-learning.candidduck16.chatgpt.site/evidence/using-evidence/): Evidence synthesis
+- [Lesson preparation](https://bscs-teaching-learning.candidduck16.chatgpt.site/model/lesson-preparation/): BSCS agreed practice
+- [Climate & Culture](https://bscs-teaching-learning.candidduck16.chatgpt.site/model/climate-culture/): BSCS agreed practice
+- [Drive Thinking for All](https://bscs-teaching-learning.candidduck16.chatgpt.site/model/drive-thinking/): BSCS agreed practice
+- [Check & Adapt](https://bscs-teaching-learning.candidduck16.chatgpt.site/model/check-adapt/): BSCS agreed practice
+- [Do Now](https://bscs-teaching-learning.candidduck16.chatgpt.site/model/do-now/): BSCS agreed practice
+- [Explain](https://bscs-teaching-learning.candidduck16.chatgpt.site/model/explain/): BSCS agreed practice
+- [Secure learning through practice](https://bscs-teaching-learning.candidduck16.chatgpt.site/model/practice/): BSCS agreed practice
+- [Feedback to improve](https://bscs-teaching-learning.candidduck16.chatgpt.site/model/feedback/): BSCS agreed practice
+- [Feedback principles at BSCS](https://bscs-teaching-learning.candidduck16.chatgpt.site/model/feedback-principles-at-bscs/): BSCS agreed practice
+- [Entry and Do Now](https://bscs-teaching-learning.candidduck16.chatgpt.site/routines/entry/): BSCS agreed practice
+- [Signalling for attention and giving instructions](https://bscs-teaching-learning.candidduck16.chatgpt.site/routines/attention/): BSCS agreed practice
+- [Exit routine](https://bscs-teaching-learning.candidduck16.chatgpt.site/routines/exit/): BSCS agreed practice
+- [Adaptive teaching: anticipate, assess, respond and monitor](https://bscs-teaching-learning.candidduck16.chatgpt.site/strategies/adaptive-teaching-cycle/): Practical guidance
+- [How the BSCS adviser should answer](https://bscs-teaching-learning.candidduck16.chatgpt.site/adviser/answering-guidance/): Adviser guidance
+- [Set up your Copilot adviser](https://bscs-teaching-learning.candidduck16.chatgpt.site/copilot/setup/): Staff guide
+
+
+## Printable staff strategy guides
+
+- [LP01 · Planning backwards from what students need to learn](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/planning-backwards-from-what-students-need-to-learn/): School-adapted practitioner guidance; PDF and Word downloads.
+- [LP02 · Prerequisite knowledge checks: identifying the foundations for new learning](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/prerequisite-knowledge-checks-identifying-the-foundations-for-new-learning/): School-adapted practitioner guidance; PDF and Word downloads.
+- [LP03 · Anticipating misconceptions and planning how to uncover them](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/anticipating-misconceptions-and-planning-how-to-uncover-them/): School-adapted practitioner guidance; PDF and Word downloads.
+- [LP04 · Diagnostic questions: planning questions that reveal understanding](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/diagnostic-questions-planning-questions-that-reveal-understanding/): School-adapted practitioner guidance; PDF and Word downloads.
+- [LP05 · Scaffolding: preparing support and deciding when to remove it](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/scaffolding-preparing-support-and-deciding-when-to-remove-it/): School-adapted practitioner guidance; PDF and Word downloads.
+- [CC01 · Entry routines: establishing a purposeful start](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/entry-routines-establishing-a-purposeful-start/): School-adapted practitioner guidance; PDF and Word downloads.
+- [CC02 · Teaching and rehearsing classroom routines](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/teaching-and-rehearsing-classroom-routines/): School-adapted practitioner guidance; PDF and Word downloads.
+- [CC03 · Signal for attention: securing readiness before teaching](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/signal-for-attention-securing-readiness-before-teaching/): School-adapted practitioner guidance; PDF and Word downloads.
+- [CC04 · Checks for listening: instructions, explanations and classmates](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/checks-for-listening-instructions-explanations-and-classmates/): School-adapted practitioner guidance; PDF and Word downloads.
+- [CC05 · Behaviour scripts: correcting calmly and precisely](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/behaviour-scripts-correcting-calmly-and-precisely/): School-adapted practitioner guidance; PDF and Word downloads.
+- [CC06 · Exit routines: ending lessons calmly and efficiently](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/exit-routines-ending-lessons-calmly-and-efficiently/): School-adapted practitioner guidance; PDF and Word downloads.
+- [DN01 · Do Now: preparing students for learning](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/do-now-preparing-students-for-learning/): School-adapted practitioner guidance; PDF and Word downloads.
+- [DN02 · Retrieval practice: strengthening recall](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/retrieval-practice-strengthening-recall/): School-adapted practitioner guidance; PDF and Word downloads.
+- [DN03 · Spaced retrieval: revisiting knowledge over time](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/spaced-retrieval-revisiting-knowledge-over-time/): School-adapted practitioner guidance; PDF and Word downloads.
+- [DN04 · Low-stakes quizzes: making retrieval accessible and challenging](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/low-stakes-quizzes-making-retrieval-accessible-and-challenging/): School-adapted practitioner guidance; PDF and Word downloads.
+- [DN05 · Do Now feedback: checking responses and addressing gaps](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/do-now-feedback-checking-responses-and-addressing-gaps/): School-adapted practitioner guidance; PDF and Word downloads.
+- [EX01 · Small steps: explaining new ideas in manageable chunks](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/small-steps-explaining-new-ideas-in-manageable-chunks/): School-adapted practitioner guidance; PDF and Word downloads.
+- [EX02 · The visualiser: live modelling step by step](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/the-visualiser-live-modelling-step-by-step/): School-adapted practitioner guidance; PDF and Word downloads.
+- [EX03 · Think aloud: making expert thinking visible](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/think-aloud-making-expert-thinking-visible/): School-adapted practitioner guidance; PDF and Word downloads.
+- [EX04 · Examples and non-examples: clarifying what counts](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/examples-and-non-examples-clarifying-what-counts/): School-adapted practitioner guidance; PDF and Word downloads.
+- [EX05 · Dual coding: using diagrams and words together](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/dual-coding-using-diagrams-and-words-together/): School-adapted practitioner guidance; PDF and Word downloads.
+- [EX06 · Explicit vocabulary teaching: developing keystone vocabulary](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/explicit-vocabulary-teaching-developing-keystone-vocabulary/): School-adapted practitioner guidance; PDF and Word downloads.
+- [EX07 · I Do We Do You Do: moving towards independence](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/i-do-we-do-you-do-moving-towards-independence/): School-adapted practitioner guidance; PDF and Word downloads.
+- [PR01 · Guided practice: checking readiness for independent work](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/guided-practice-checking-readiness-for-independent-work/): School-adapted practitioner guidance; PDF and Word downloads.
+- [PR02 · Completion problems: bridging modelling and independence](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/completion-problems-bridging-modelling-and-independence/): School-adapted practitioner guidance; PDF and Word downloads.
+- [PR03 · Fading scaffolds: removing support as students become secure](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/fading-scaffolds-removing-support-as-students-become-secure/): School-adapted practitioner guidance; PDF and Word downloads.
+- [PR04 · Fluency practice: securing the essential steps](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/fluency-practice-securing-the-essential-steps/): School-adapted practitioner guidance; PDF and Word downloads.
+- [PR05 · Variation: changing examples to deepen understanding](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/variation-changing-examples-to-deepen-understanding/): School-adapted practitioner guidance; PDF and Word downloads.
+- [PR06 · Interleaving: practising how to choose an approach](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/interleaving-practising-how-to-choose-an-approach/): School-adapted practitioner guidance; PDF and Word downloads.
+- [PR07 · Independent practice: helping students begin and sustain effort](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/independent-practice-helping-students-begin-and-sustain-effort/): School-adapted practitioner guidance; PDF and Word downloads.
+- [DT01 · Wait time: giving everyone time to think](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/wait-time-giving-everyone-time-to-think/): School-adapted practitioner guidance; PDF and Word downloads.
+- [DT02 · Cold calling: involving everyone in questioning](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/cold-calling-involving-everyone-in-questioning/): School-adapted practitioner guidance; PDF and Word downloads.
+- [DT03 · Think Pair Share: preparing everyone to answer](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/think-pair-share-preparing-everyone-to-answer/): School-adapted practitioner guidance; PDF and Word downloads.
+- [DT04 · Turn and Talk: structuring purposeful partner discussion](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/turn-and-talk-structuring-purposeful-partner-discussion/): School-adapted practitioner guidance; PDF and Word downloads.
+- [DT05 · Choral response: rehearsing brief answers together](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/choral-response-rehearsing-brief-answers-together/): School-adapted practitioner guidance; PDF and Word downloads.
+- [DT06 · Probing questions: moving beyond the first answer](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/probing-questions-moving-beyond-the-first-answer/): School-adapted practitioner guidance; PDF and Word downloads.
+- [DT07 · Compare justify evaluate: questions that deepen reasoning](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/compare-justify-evaluate-questions-that-deepen-reasoning/): School-adapted practitioner guidance; PDF and Word downloads.
+- [CA01 · Mini-whiteboards: checking everyone's understanding](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/mini-whiteboards-checking-everyone-s-understanding/): School-adapted practitioner guidance; PDF and Word downloads.
+- [CA02 · Hinge questions: deciding whether to move on](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/hinge-questions-deciding-whether-to-move-on/): School-adapted practitioner guidance; PDF and Word downloads.
+- [CA03 · Checking for understanding during explanations](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/checking-for-understanding-during-explanations/): School-adapted practitioner guidance; PDF and Word downloads.
+- [CA04 · Circulation: sampling independent work and responding](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/circulation-sampling-independent-work-and-responding/): School-adapted practitioner guidance; PDF and Word downloads.
+- [CA05 · Exit tickets: identifying what needs revisiting](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/exit-tickets-identifying-what-needs-revisiting/): School-adapted practitioner guidance; PDF and Word downloads.
+- [CA06 · Pause and Fix: responding to a common misconception](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/pause-and-fix-responding-to-a-common-misconception/): School-adapted practitioner guidance; PDF and Word downloads.
+- [CA07 · Adapt and Support Extend and Challenge: responding to different needs](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/adapt-and-support-extend-and-challenge-responding-to-different-needs/): School-adapted practitioner guidance; PDF and Word downloads.
+- [FI01 · Actionable feedback: giving students a useful next step](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/actionable-feedback-giving-students-a-useful-next-step/): School-adapted practitioner guidance; PDF and Word downloads.
+- [FI02 · Whole-class feedback: responding to patterns in work](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/whole-class-feedback-responding-to-patterns-in-work/): School-adapted practitioner guidance; PDF and Word downloads.
+- [FI03 · Self-checking: teaching students to improve their own work](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/self-checking-teaching-students-to-improve-their-own-work/): School-adapted practitioner guidance; PDF and Word downloads.
+- [FI04 · Peer critique: using criteria to improve work](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/peer-critique-using-criteria-to-improve-work/): School-adapted practitioner guidance; PDF and Word downloads.
+- [FI05 · Feedback tasks: planning time to act on feedback](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/feedback-tasks-planning-time-to-act-on-feedback/): School-adapted practitioner guidance; PDF and Word downloads.
+- [FI06 · Feedback follow-up: checking improvement on a new task](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/feedback-follow-up-checking-improvement-on-a-new-task/): School-adapted practitioner guidance; PDF and Word downloads.
+- [EX08 · Worked examples: showing a complete solution](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/worked-examples-showing-a-complete-solution/): School-adapted practitioner guidance; PDF and Word downloads.
+- [FI07 · The visualiser: discussing and improving student work](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/the-visualiser-discussing-and-improving-student-work/): School-adapted practitioner guidance; PDF and Word downloads.
+- [CC07 · Clear instructions and front-loading: specify participation before the task](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/clear-instructions-and-front-loading-specify-participation-before-the-task/): School-adapted practitioner guidance; PDF and Word downloads.
+- [CC08 · Habits of attention: teaching purposeful listening routines](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/habits-of-attention-teaching-purposeful-listening-routines/): School-adapted practitioner guidance; PDF and Word downloads.
+- [CC09 · Classroom transitions: moving smoothly between learning activities](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/classroom-transitions-moving-smoothly-between-learning-activities/): School-adapted practitioner guidance; PDF and Word downloads.
+- [CC10 · Precorrections: preventing predictable problems before they start](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/precorrections-preventing-predictable-problems-before-they-start/): School-adapted practitioner guidance; PDF and Word downloads.
+- [CC11 · Making participation safe: prepare, rehearse and respond warmly](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/making-participation-safe-prepare-rehearse-and-respond-warmly/): School-adapted practitioner guidance; PDF and Word downloads.
+- [DT08 · Everyone–Together–Anyone: planning participation for the whole class](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/everyone-together-anyone-planning-participation-for-the-whole-class/): School-adapted practitioner guidance; PDF and Word downloads.
+- [DT09 · Second Chance / No Opt Out: returning after ‘I don’t know’](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/second-chance-no-opt-out-returning-after-i-don-t-know/): School-adapted practitioner guidance; PDF and Word downloads.
+- [DT10 · Oracy for learning: teaching speaking and listening explicitly](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/oracy-for-learning-teaching-speaking-and-listening-explicitly/): School-adapted practitioner guidance; PDF and Word downloads.
+- [DT11 · Everybody Writes / Silent Solo: thinking in writing before discussion](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/everybody-writes-silent-solo-thinking-in-writing-before-discussion/): School-adapted practitioner guidance; PDF and Word downloads.
+- [EX09 · Explaining with precision: plan, sequence and rehearse the explanation](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/explaining-with-precision-plan-sequence-and-rehearse-the-explanation/): School-adapted practitioner guidance; PDF and Word downloads.
+- [EX10 · Cognitive simplicity: designing slides and resources that support attention](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/cognitive-simplicity-designing-slides-and-resources-that-support-attention/): School-adapted practitioner guidance; PDF and Word downloads.
+- [EX11 · Live drawing: building a representation step by step](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/live-drawing-building-a-representation-step-by-step/): School-adapted practitioner guidance; PDF and Word downloads.
+- [EX12 · Storytelling and analogies: making an explanation coherent and memorable](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/storytelling-and-analogies-making-an-explanation-coherent-and-memorable/): School-adapted practitioner guidance; PDF and Word downloads.
+- [CA08 · Micro-decisions: notice, interpret and respond in the moment](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/micro-decisions-notice-interpret-and-respond-in-the-moment/): School-adapted practitioner guidance; PDF and Word downloads.
+- [CA09 · High success rates: deciding when students are ready for independence](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/high-success-rates-deciding-when-students-are-ready-for-independence/): School-adapted practitioner guidance; PDF and Word downloads.
+- [LP06 · Atomisation: breaking learning into prerequisite and new knowledge](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/atomisation-breaking-learning-into-prerequisite-and-new-knowledge/): School-adapted practitioner guidance; PDF and Word downloads.
+- [CA10 · Walking-talking mocks: attempt, diagnose, model and re-check](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/walking-talking-mocks-attempt-diagnose-model-and-re-check/): School-adapted practitioner guidance; PDF and Word downloads.
+- [FI08 · Review Cards: turning errors into future retrieval](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/review-cards-turning-errors-into-future-retrieval/): School-adapted practitioner guidance; PDF and Word downloads.
+- [PR08 · ‘What if?’ questions: vary a condition to deepen understanding](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/what-if-questions-vary-a-condition-to-deepen-understanding/): School-adapted practitioner guidance; PDF and Word downloads.
+- [PR09 · Golden Silence and active observation: launching independent practice](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/golden-silence-and-active-observation-launching-independent-practice/): School-adapted practitioner guidance; PDF and Word downloads.
+- [CA11 · Confidence scores: finding confidently held errors](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/confidence-scores-finding-confidently-held-errors/): School-adapted practitioner guidance; PDF and Word downloads.
+- [CA12 · Learner-generated examples: testing concept boundaries](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/learner-generated-examples-testing-concept-boundaries/): School-adapted practitioner guidance; PDF and Word downloads.
+- [PR10 · Consolidation: securing new learning before independent practice](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/consolidation-securing-new-learning-before-independent-practice/): School-adapted practitioner guidance; PDF and Word downloads.
+- [PR11 · Problem-solving: applying secure knowledge in less familiar tasks](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/problem-solving-applying-secure-knowledge-in-less-familiar-tasks/): School-adapted practitioner guidance; PDF and Word downloads.
+- [LP07 · Purpose: helping students understand what they are learning and why](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/purpose-helping-students-understand-what-they-are-learning-and-why/): School-adapted practitioner guidance; PDF and Word downloads.
+- [DN06 · Retrieval homework: revisiting learning beyond the lesson](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/retrieval-homework-revisiting-learning-beyond-the-lesson/): School-adapted practitioner guidance; PDF and Word downloads.
+- [DN07 · Getting students on board with retrieval: explain, demonstrate and build habits](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/getting-students-on-board-with-retrieval-explain-demonstrate-and-build-habits/): School-adapted practitioner guidance; PDF and Word downloads.
+- [DT12 · Precise answers / Don’t round up: helping students refine a response](https://bscs-teaching-learning.candidduck16.chatgpt.site/guides/precise-answers-don-t-round-up-helping-students-refine-a-response/): School-adapted practitioner guidance; PDF and Word downloads.
